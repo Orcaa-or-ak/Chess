@@ -1,0 +1,4 @@
+﻿  CBanCo.cpp
+C:\Users\ADMIN\Desktop\code\.vscode\c_cpp\BanCo\CBanCo.cpp(150,15): warning C4101: 'q': unreferenced local variable
+C:\Users\ADMIN\Desktop\code\.vscode\c_cpp\BanCo\CBanCo.cpp(149,7): warning C4101: 'coQuanCo': unreferenced local variable
+  BanCo.vcxproj -> C:\Users\ADMIN\Desktop\code\.vscode\c_cpp\BanCo\x64\Debug\BanCo.exe
